@@ -31,10 +31,10 @@ When I'm not coding I enjoy
 - Video Games 🎮
 - Movies 🎥
 - Good Food 🍛
-- Sports ⚽ \
+- Sports ⚽ 
 ## 💬 Get in touch
 - LinkedIn: https://www.linkedin.com/in/jason-g-greenberg/
 - Wellfound / AngelList: https://wellfound.com/jason-greenberg-4
 Thanks for visiting my profile! Feel free to reach out to me with any questions or just to chat.
-## 📈 Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jason-greenberg&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<!-- ## 📈 Stats:
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jason-greenberg&show_icons=true&theme=gotham" alt="abhisheknaiidu" /> -->
