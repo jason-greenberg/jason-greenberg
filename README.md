@@ -13,15 +13,15 @@ Here are some of the technologies I have been working with:
 ### Backend:
 ![FastAPI](https://img.shields.io/badge/FastAPI-ADD8E6?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
+![Node](https://img.shields.io/badge/Node.js-404D59?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
+![sequelize](https://img.shields.io/badge/sequelize.js-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![sqlalchemy](https://img.shields.io/badge/SQLAlchemy-90EE90?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ### Frontend:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-CA4245?style=for-the-badge&logo=redux&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-593D88?style=for-the-badge&logo=graphql&logoColor=white)
 ## 🌱 What I'm currently learning and getting better at:
 - Data Structures and Algorithms 🤖
@@ -36,6 +36,6 @@ When I'm not coding I enjoy
 ## 💬 Get in touch
 - LinkedIn: https://www.linkedin.com/in/jason-g-greenberg/
 - Wellfound / AngelList: https://wellfound.com/jason-greenberg-4
-Thanks for visiting my profile! Feel free to reach out to me with any questions or just to chat.
+
 <!-- ## 📈 Stats:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jason-greenberg&show_icons=true&theme=gotham" alt="abhisheknaiidu" /> -->
