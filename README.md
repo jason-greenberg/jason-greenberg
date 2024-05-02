@@ -19,10 +19,13 @@ Here are some of the technologies I have been working with:
 ![sqlalchemy](https://img.shields.io/badge/SQLAlchemy-90EE90?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2399F0?style=for-the-badge&logo=trpc&logoColor=white)
 ### Frontend:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-CA4245?style=for-the-badge&logo=redux&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-593D88?style=for-the-badge&logo=graphql&logoColor=white)
+
+
 ## 🌱 What I'm currently learning and getting better at:
 - Data Structures and Algorithms 🤖
 - AWS Cloud Services ☁️
