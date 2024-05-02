@@ -1,5 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=5000&color=FFFFFF&width=1000&lines=Hi+I'm+Jason!+A+former+researcher+turned+Software+Dev!)](https://git.io/typing-svg)
-Once upon a time, I worked in clinical psychology research, but the magic of code caught my eye. I was fascinated with writing scripts that could automate my research workflow. Soon, I found myself learning JavaScript and embarking on a new adventure in software engineering. Now, I spend my days building web applications and using code to solve real problems. 
+Once upon a time, I worked in clinical psychology research, but automating research tasks with programming pulled me down the rabbit hole. Scripts to speed up my research workflows, soon led me to learn web development. After I realize how much I loved to build, I took a leap, embarking on a new adventure in software engineering. Now, I spend my days building web applications and using code to solve real problems. 
 
 I'm always exploring new technologies and challenging myself to learn new tools. With a background in both psychology and software development, I bring a unique perspective to any team.
 
